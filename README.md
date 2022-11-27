@@ -5,9 +5,11 @@ This project was given by Mr. isreal M.
 
 Prepered by Dawit Belay (QA Automation student)
 
-The project sepecification will be as below:
 
-Pizza Order System Specification
+This project will enable the customer/users to choose pizza size according to their price, choose the destination where he went to take and also it will ask if the customer need extra cheese.In addition to this, there is a discount for pizzas according to dice game an which the customer playing.
+
+Therefore; the project sepecification will be as writen below:
+
 In our company "Pizza.io" anyone can order pizza if his age greater than 18.
 Our product contains serval of sizes:
 	S – 4 Slice
